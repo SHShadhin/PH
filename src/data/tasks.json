@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Setup Next.js project",
+    "description": "Initialize project with required dependencies",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-26"
+  },
+  {
+    "id": 2,
+    "title": "Create homepage layout",
+    "description": "Design and structure homepage UI",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-04-27"
+  },
+  {
+    "id": 3,
+    "title": "Add routing for pages",
+    "description": "Implement dynamic and static routes",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-04-28"
+  },
+  {
+    "id": 4,
+    "title": "Fetch data from API",
+    "description": "Connect frontend with backend API",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-29"
+  },
+  {
+    "id": 5,
+    "title": "Design UI components",
+    "description": "Build reusable UI components",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-04-30"
+  },
+  {
+    "id": 6,
+    "title": "Deploy project",
+    "description": "Deploy project to hosting platform",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2026-05-01"
+  }
+]
