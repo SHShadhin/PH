@@ -3,7 +3,7 @@ import React from 'react';
 import { Card, Link } from '@heroui/react';
 
 const TasksCard = ({ task }) => {
-  const {title, description, priority} = task
+  const {title, description} = task
   return (
     <div >
       <Card  variant='primary' className="border-2 border-purple-400">
